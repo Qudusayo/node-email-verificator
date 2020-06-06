@@ -74,4 +74,4 @@ server.listen(3000, () => console.log('Using NEV on port 3000'))
 
 ### Contribution  
 
-Contribute on github [Here](https://github.com/Qudusayo/node-email-verification)
+Contribute on github [Here](https://github.com/Qudusayo/node-email-verificator)
