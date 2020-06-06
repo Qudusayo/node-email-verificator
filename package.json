@@ -1,0 +1,29 @@
+{
+  "name": "node-email-verification",
+  "version": "0.1.0",
+  "description": "A  simple  way of  email confirmation by sending a confirmation code to the client for verificatiion",
+  "main": "index.js",
+  "homepage": "https://github.com/Qudusayo/node-email-verification",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Qudusayo/node-email-verification"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "email-verification",
+    "email-confirmation",
+    "node-email-verification",
+    "node-email-confirmation",
+    "email-authentication"
+  ],
+  "author": "Qudusayo",
+  "license": "MIT",
+  "dependencies": {
+    "nodemailer": "^6.4.8"
+  },
+  "devDependencies": {
+    "jest": "^26.0.1"
+  }
+}
