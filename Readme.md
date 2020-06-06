@@ -1,4 +1,4 @@
-# Node Email Verification
+# Node Email Verificator
 
 NEV is a simplified method of sending quick verification code to email for verification.
 
