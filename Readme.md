@@ -48,7 +48,7 @@ The send function takes a parameters:
 
 ```js
 const express = require('express');
-const nev = require('node-email-verification');
+const nev = require('node-email-verificator');
 
 const server = express();
 
